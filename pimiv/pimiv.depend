@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700850249 source:f:\codeblocks\projects\pimiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	<wchar.h>
+
+1700844823 source:f:\codeblocks\projects\pimiv\resource.rc
+
+1700845958 source:f:\codeblocks\projects\pimiv\icon.rc
+
